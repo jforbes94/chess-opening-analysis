@@ -1,0 +1,25 @@
+; Engine configuration file.
+; Edit using the Godot editor UI, not directly.
+;
+; Format:
+;   [section] ; section goes between []
+;   param=value ; assign values to parameters
+
+config_version=5
+
+[application]
+
+config/name="Project 1500 — Opening Trainer"
+run/main_scene="res://scenes/OpeningTrainer.tscn"
+config/features=PackedStringArray("4.4", "Forward Plus")
+config/icon="res://icon.svg"
+
+[autoload]
+
+GameStateManager="*res://scripts/game_state_manager.gd"
+
+[display]
+
+window/size/viewport_width=1060
+window/size/viewport_height=760
+window/size/resizable=false

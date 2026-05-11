@@ -1,0 +1,13 @@
+# Downloaded game data — re-run scraper.ipynb to regenerate
+games/
+games_sf/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.env

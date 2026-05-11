@@ -1,0 +1,13 @@
+username: sfink37
+display_name: "sfink37"
+games_dir: games_sf
+time_classes:
+  - bullet
+  - blitz
+exclude_months: []        # all time — joined near current elo
+rating_floor: 1400        # for chart y-axis floor
+phase_opening_hm: 20
+phase_middlegame_hm: 50
+min_opening_games: 10     # higher threshold — larger dataset
+color_primary: "#c0392b"
+color_secondary: "#e67e22"

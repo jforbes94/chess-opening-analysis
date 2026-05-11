@@ -1,0 +1,15 @@
+username: jf4bes
+display_name: "JF4bes"
+games_dir: games
+time_classes:
+  - rapid
+exclude_months:
+  - "2025_01"
+  - "2025_02"
+  - "2025_03"
+rating_floor: 1300       # for chart y-axis floor
+phase_opening_hm: 20     # half-moves = move 10
+phase_middlegame_hm: 50  # half-moves = move 25
+min_opening_games: 5     # minimum games to show in opening table
+color_primary: "#2980b9"
+color_secondary: "#c0392b"

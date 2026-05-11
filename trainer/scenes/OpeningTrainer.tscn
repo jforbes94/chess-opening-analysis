@@ -1,0 +1,17 @@
+[gd_scene format=3 uid="uid://opening_trainer_p1500"]
+
+[ext_resource type="Script" path="res://scripts/opening_trainer.gd" id="1"]
+[ext_resource type="Script" path="res://scripts/movement_manager.gd" id="2"]
+[ext_resource type="PackedScene" path="res://scenes/PromotionPopup.tscn" id="3"]
+
+[node name="OpeningTrainer" type="Node2D"]
+script = ExtResource("1")
+
+[node name="BoardTiles" type="Node2D" parent="."]
+
+[node name="MovementManager" type="Node" parent="."]
+script = ExtResource("2")
+
+[node name="UI" type="CanvasLayer" parent="."]
+
+[node name="PromotionPopup" parent="UI" instance=ExtResource("3")]

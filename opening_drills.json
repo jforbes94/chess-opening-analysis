@@ -1,0 +1,422 @@
+{
+  "version": 1,
+  "drills": [
+    {
+      "id": "drill_001",
+      "opening_name": "Philidor Defense 3.Bc4",
+      "color": "white",
+      "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+      "moves": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "d7d6",
+        "f1c4",
+        "h7h6",
+        "d2d4",
+        "e5d4",
+        "d1d4",
+        "b8c6",
+        "d4d5",
+        "c8e6"
+      ],
+      "description": "Philidor Defense 3.Bc4 \u2014 practice as white",
+      "stats": {
+        "games": 38,
+        "win_rate": 36.8,
+        "priority_score": 500.0
+      }
+    },
+    {
+      "id": "drill_002",
+      "opening_name": "Giuoco Piano Game Main Line Giuoco Pianissimo Variation",
+      "color": "white",
+      "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+      "moves": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1c4",
+        "f8c5",
+        "c2c3",
+        "g8f6",
+        "d2d3",
+        "e8g8",
+        "b2b4",
+        "c5e7"
+      ],
+      "description": "Giuoco Piano Game Main Line Giuoco Pianissimo Variation \u2014 practice as white",
+      "stats": {
+        "games": 38,
+        "win_rate": 36.8,
+        "priority_score": 500.0
+      }
+    },
+    {
+      "id": "drill_003",
+      "opening_name": "Giuoco Piano Game Main Line",
+      "color": "white",
+      "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+      "moves": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1c4",
+        "f8c5",
+        "c2c3",
+        "h7h6",
+        "b2b4",
+        "c5b6",
+        "a2a4"
+      ],
+      "description": "Giuoco Piano Game Main Line \u2014 practice as white",
+      "stats": {
+        "games": 15,
+        "win_rate": 20.0,
+        "priority_score": 450.0
+      }
+    },
+    {
+      "id": "drill_004",
+      "opening_name": "Kings Pawn Opening 1...e5",
+      "color": "black",
+      "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+      "moves": [
+        "e2e4",
+        "e7e5",
+        "d1f3",
+        "b8c6",
+        "f1c4",
+        "g8f6",
+        "c2c3"
+      ],
+      "description": "Kings Pawn Opening 1...e5 \u2014 practice as black",
+      "stats": {
+        "games": 20,
+        "win_rate": 30.0,
+        "priority_score": 400.0
+      }
+    },
+    {
+      "id": "drill_005",
+      "opening_name": "Italian Game Traxler Bishop Sacrifice Line 5...Ke7",
+      "color": "black",
+      "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+      "moves": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1c4",
+        "g8f6",
+        "f3g5",
+        "f8c5",
+        "c4f7",
+        "e8e7",
+        "e1g1",
+        "h8f8"
+      ],
+      "description": "Italian Game Traxler Bishop Sacrifice Line 5...Ke7 \u2014 practice as black",
+      "stats": {
+        "games": 14,
+        "win_rate": 28.6,
+        "priority_score": 300.0
+      }
+    },
+    {
+      "id": "drill_006",
+      "opening_name": "Indian Game Yusupov Rubinstein System",
+      "color": "black",
+      "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+      "moves": [
+        "d2d4",
+        "g8f6",
+        "g1f3",
+        "e7e6",
+        "e2e3",
+        "b7b6",
+        "f1d3",
+        "c8b7",
+        "e1g1"
+      ],
+      "description": "Indian Game Yusupov Rubinstein System \u2014 practice as black",
+      "stats": {
+        "games": 7,
+        "win_rate": 14.3,
+        "priority_score": 250.0
+      }
+    },
+    {
+      "id": "drill_007",
+      "opening_name": "Indian Game 2.Nc3 e6 3.e4",
+      "color": "black",
+      "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+      "moves": [
+        "d2d4",
+        "g8f6",
+        "b1c3",
+        "e7e6",
+        "e2e4",
+        "d7d6",
+        "c1g5"
+      ],
+      "description": "Indian Game 2.Nc3 e6 3.e4 \u2014 practice as black",
+      "stats": {
+        "games": 7,
+        "win_rate": 14.3,
+        "priority_score": 250.0
+      }
+    },
+    {
+      "id": "drill_008",
+      "opening_name": "Four Knights Game Scotch Variation",
+      "color": "black",
+      "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+      "moves": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "b1c3",
+        "g8f6",
+        "d2d4",
+        "d7d6",
+        "d4d5"
+      ],
+      "description": "Four Knights Game Scotch Variation \u2014 practice as black",
+      "stats": {
+        "games": 5,
+        "win_rate": 0.0,
+        "priority_score": 250.0
+      }
+    },
+    {
+      "id": "drill_009",
+      "opening_name": "Indian Game London System",
+      "color": "black",
+      "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+      "moves": [
+        "d2d4",
+        "g8f6",
+        "c1f4",
+        "e7e6",
+        "e2e3",
+        "b7b6",
+        "g1f3",
+        "c8b7",
+        "c2c3"
+      ],
+      "description": "Indian Game London System \u2014 practice as black",
+      "stats": {
+        "games": 17,
+        "win_rate": 35.3,
+        "priority_score": 250.0
+      }
+    },
+    {
+      "id": "drill_010",
+      "opening_name": "Ruy Lopez Opening Berlin Defense",
+      "color": "black",
+      "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+      "moves": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6",
+        "b5c6",
+        "d7c6",
+        "d2d3"
+      ],
+      "description": "Ruy Lopez Opening Berlin Defense \u2014 practice as black",
+      "stats": {
+        "games": 14,
+        "win_rate": 35.7,
+        "priority_score": 200.0
+      }
+    },
+    {
+      "id": "drill_011",
+      "opening_name": "Giuoco Piano Game Main Line Giuoco Pianissimo Variation",
+      "color": "black",
+      "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+      "moves": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1c4",
+        "g8f6",
+        "d2d3",
+        "f8c5",
+        "c1g5"
+      ],
+      "description": "Giuoco Piano Game Main Line Giuoco Pianissimo Variation \u2014 practice as black",
+      "stats": {
+        "games": 8,
+        "win_rate": 25.0,
+        "priority_score": 200.0
+      }
+    },
+    {
+      "id": "drill_012",
+      "opening_name": "Giuoco Piano Game Giuoco Pianissimo Variation",
+      "color": "white",
+      "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+      "moves": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1c4",
+        "f8c5",
+        "c2c3",
+        "d7d6",
+        "d2d3",
+        "c8g4"
+      ],
+      "description": "Giuoco Piano Game Giuoco Pianissimo Variation \u2014 practice as white",
+      "stats": {
+        "games": 8,
+        "win_rate": 25.0,
+        "priority_score": 200.0
+      }
+    },
+    {
+      "id": "drill_013",
+      "opening_name": "Pirc Defense Modern Defense",
+      "color": "white",
+      "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+      "moves": [
+        "e2e4",
+        "d7d6",
+        "g1f3",
+        "g8f6",
+        "b1c3",
+        "g7g6",
+        "f1c4"
+      ],
+      "description": "Pirc Defense Modern Defense \u2014 practice as white",
+      "stats": {
+        "games": 12,
+        "win_rate": 33.3,
+        "priority_score": 200.0
+      }
+    },
+    {
+      "id": "drill_014",
+      "opening_name": "Indian Game 2.e3 e6",
+      "color": "black",
+      "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+      "moves": [
+        "d2d4",
+        "g8f6",
+        "e2e3",
+        "e7e6",
+        "b1c3",
+        "f8b4"
+      ],
+      "description": "Indian Game 2.e3 e6 \u2014 practice as black",
+      "stats": {
+        "games": 6,
+        "win_rate": 16.7,
+        "priority_score": 200.0
+      }
+    },
+    {
+      "id": "drill_015",
+      "opening_name": "Giuoco Piano Game Main Line Birds Attack",
+      "color": "white",
+      "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+      "moves": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1c4",
+        "f8c5",
+        "c2c3",
+        "g8f6",
+        "b2b4",
+        "c5f2"
+      ],
+      "description": "Giuoco Piano Game Main Line Birds Attack \u2014 practice as white",
+      "stats": {
+        "games": 6,
+        "win_rate": 16.7,
+        "priority_score": 200.0
+      }
+    },
+    {
+      "id": "drill_016",
+      "opening_name": "Bishops Opening Berlin Defense",
+      "color": "white",
+      "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+      "moves": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "f8c5",
+        "f1c4",
+        "g8f6"
+      ],
+      "description": "Bishops Opening Berlin Defense \u2014 practice as white",
+      "stats": {
+        "games": 6,
+        "win_rate": 16.7,
+        "priority_score": 200.0
+      }
+    },
+    {
+      "id": "drill_017",
+      "opening_name": "Italian Game Two Knights Open",
+      "color": "black",
+      "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+      "moves": [
+        "e2e4",
+        "e7e5",
+        "f1c4",
+        "b8c6",
+        "g1f3",
+        "g8f6",
+        "d2d4",
+        "d7d6"
+      ],
+      "description": "Italian Game Two Knights Open \u2014 practice as black",
+      "stats": {
+        "games": 5,
+        "win_rate": 20.0,
+        "priority_score": 150.0
+      }
+    },
+    {
+      "id": "drill_018",
+      "opening_name": "Scotch Game Classical Intermezzo Variation",
+      "color": "black",
+      "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+      "moves": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "d2d4",
+        "e5d4",
+        "f3d4",
+        "f8c5",
+        "d4c6",
+        "d8f6",
+        "d1e2",
+        "d7c6"
+      ],
+      "description": "Scotch Game Classical Intermezzo Variation \u2014 practice as black",
+      "stats": {
+        "games": 14,
+        "win_rate": 42.9,
+        "priority_score": 100.0
+      }
+    }
+  ]
+}
