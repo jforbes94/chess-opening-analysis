@@ -38,12 +38,14 @@ All lessons are merged into a single report PDF with bookmarked chapters.
 ## Output structure
 
 ```
-output/                           — committed to git as examples
-  {username}_{source}/
-    phase_{username}.pdf          — phase analysis (opening/middlegame/endgame loss breakdown)
-    priority_{username}_*.csv     — full priority list with win rates
-    run_summary_{username}_*.csv  — per-opening lesson results with junction counts and skip reasons
-    report_{username}.pdf         — merged report (phase + all lessons)
+output/                                   — committed to git as examples
+  {username}_{source}_{method}{depth}/    — one folder per player × grouping method × depth
+    e.g. jf4bes_chesscom_eco3/            — ECO code grouping at depth 3
+         jf4bes_chesscom_url4/            — URL name grouping at depth 4
+    phase_{username}.pdf                  — phase analysis (opening/middlegame/endgame)
+    priority_{username}_*.csv            — full priority list with win rates
+    run_summary_{username}_*.csv         — per-opening junction results and skip reasons
+    report_{username}.pdf                — merged report (phase + all lessons)
     lessons/
       lesson_01_{username}_{eco}.pdf
       lesson_02_{username}_{eco}.pdf

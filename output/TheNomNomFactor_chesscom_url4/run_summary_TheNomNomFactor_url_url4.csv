@@ -1,0 +1,26 @@
+priority_rank,name,color,eco_code,priority_score,win_pct,games_in_priority,games_loaded,raw_junctions,consistent_junctions,skipped_junctions,skip_reasons,too_diverse,pdf_generated
+1,Nimzowitsch Larsen Attack,black,Nimzowitsch-Larsen-Attack,253.5,21.4,14,96,3,2,1,SF contradicts data — d6 (67% win) is -33cp vs SF best,,yes
+2,Grunfeld Defense Exchange Modern,black,Grunfeld-Defense-Exchange-Modern,156.1,38.2,34,34,1,0,1,SF contradicts data — g6 (100% win) is -44cp vs SF best,,no
+3,Pirc Defense Classical Variation,black,Pirc-Defense-Classical-Variation,135.0,40.0,40,40,0,0,0,,yes,no
+4,Queens Indian Defense Fianchetto,white,Queens-Indian-Defense-Fianchetto,92.0,47.8,46,7,0,0,0,,,no
+5,French Defense Main Line,white,French-Defense-Main-Line,76.0,47.4,38,33,1,1,0,,,yes
+6,Modern Defense Standard Pseudo,black,Modern-Defense-Standard-Pseudo,70.0,45.7,35,35,2,2,0,,,yes
+7,Torre Attack,black,Torre-Attack,68.4,30.0,10,26,2,1,1,SF contradicts data — g6 (100% win) is -44cp vs SF best,,yes
+8,Modern Defense Standard Line,black,Modern-Defense-Standard-Line,62.0,45.2,31,31,1,0,1,SF contradicts data — Nc6 (67% win) is -27cp vs SF best,,no
+9,English Opening Anglo Indian,white,English-Opening-Anglo-Indian,56.0,46.4,28,19,0,0,0,,yes,no
+10,English Opening Fianchetto Ultra,black,English-Opening-Fianchetto-Ultra,55.1,33.3,12,12,0,0,0,,,no
+11,English Opening Great Snake,black,English-Opening-Great-Snake,55.1,33.3,12,10,0,0,0,,,no
+12,Kings Indian Defense Bayonet,white,Kings-Indian-Defense-Bayonet,54.0,40.7,27,16,0,0,0,,yes,no
+13,Vienna Game Max Lange,black,Vienna-Game-Max-Lange,48.8,39.1,23,11,0,0,0,,,no
+14,Four Knights Game Spanish,black,Four-Knights-Game-Spanish,44.0,45.5,22,22,0,0,0,,yes,no
+15,Neo Grunfeld Defense Classical,black,Neo-Grunfeld-Defense-Classical,43.1,35.7,14,9,1,0,1,SF contradicts data — a6 (50% win) is -41cp vs SF best,,no
+16,Bishops Opening Berlin Vienna,black,Bishops-Opening-Berlin-Vienna,42.0,47.6,21,21,1,1,0,,,yes
+17,Scotch Game Goring Gambit,black,Scotch-Game-Goring-Gambit,42.0,42.9,21,7,0,0,0,,,no
+18,Indian Game Spielmann Indian,black,Indian-Game-Spielmann-Indian,38.0,42.1,19,3,0,0,0,,,no
+19,French Defense Kings Indian,white,French-Defense-Kings-Indian,34.0,47.1,17,7,0,0,0,,,no
+20,Trompowsky Attack,black,Trompowsky-Attack,32.0,43.8,16,31,1,1,0,,,yes
+21,French Defense Normal Variation,white,French-Defense-Normal-Variation,30.0,46.7,15,15,1,1,0,,,yes
+22,English Opening Symmetrical Anti,white,English-Opening-Symmetrical-Anti,30.0,46.7,15,15,1,1,0,,,yes
+23,Queens Gambit Declined Catalan,white,Queens-Gambit-Declined-Catalan,30.0,40.0,15,1,0,0,0,,,no
+24,Vienna Game Main Line,black,Vienna-Game-Main-Line,30.0,40.0,15,5,0,0,0,,,no
+25,Trompowsky Attack Classical Big,white,Trompowsky-Attack-Classical-Big,0,65.4,52,52,3,2,1,SF contradicts data — Nc3 (75% win) is -88cp vs SF best,,yes

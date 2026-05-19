@@ -1,0 +1,89 @@
+color,rank,name,eco_code,eco_key,games,wins,losses,draws,win_pct,priority,group_by,depth
+white,1,B10  Caro Kann Defense,B10,,187,80,98,9,42.8,777.6,eco,3
+white,2,B22  Alapin Sicilian Defense,B22,,238,107,120,11,45.0,552.8,eco,3
+white,3,B27  Sicilian Defense Hyperaccelerated Dragon,B27,,32,12,16,4,37.5,163.7,eco,3
+white,4,B06  Modern Defense with,B06,,57,25,29,3,43.9,114.0,eco,3
+white,5,B40  Sicilian Defense French Variation,B40,,35,14,21,0,40.0,101.9,eco,3
+white,6,B08  Pirc Defense Classical Variation,B08,,27,11,13,3,40.7,54.0,eco,3
+white,7,C24  Bishops Opening Berlin Defense,C24,,26,11,15,0,42.3,52.0,eco,3
+white,8,C45  Scotch Game Scotch Gambit,C45,,24,11,12,1,45.8,48.0,eco,3
+white,9,C46  Three Knights Opening,C46,,11,4,7,0,36.4,10.7,eco,3
+white,10,A00  Van t Kruijs Opening,A00,,18,10,7,1,55.6,0,eco,3
+white,11,A04  Reti Opening Kingside Fianchetto,A04,,103,56,42,5,54.4,0,eco,3
+white,12,C40  Kings Pawn Opening Kings,C40,,143,77,62,4,53.8,0,eco,3
+white,13,C42  Petrovs Defense,C42,,110,56,52,2,50.9,0,eco,3
+white,14,C41  Philidor Defense,C41,,179,97,71,11,54.2,0,eco,3
+white,15,C20  Bishops Opening Boi Variation,C20,,36,20,15,1,55.6,0,eco,3
+white,16,B01  Scandinavian Defense Mieses Kotrc,B01,,353,176,164,13,49.9,0,eco,3
+white,17,C00  French Defense Knight Variation,C00,,94,46,44,4,48.9,0,eco,3
+white,18,C47  Four Knights Game Italian,C47,,51,27,24,0,52.9,0,eco,3
+white,19,B00  Kings Pawn Opening,B00,,155,80,71,4,51.6,0,eco,3
+white,20,B07  Pirc Defense Modern Defense,B07,,140,75,60,5,53.6,0,eco,3
+white,21,C57  Italian Game Knight Attack,C57,,73,47,26,0,64.4,0,eco,3
+white,22,B20  Sicilian Defense Bowdler Attack,B20,,27,14,13,0,51.9,0,eco,3
+white,23,B02  Alekhines Defense Scandinavian Variation,B02,,56,32,22,2,57.1,0,eco,3
+white,24,B13  Caro Kann Defense Exchange,B13,,96,53,40,3,55.2,0,eco,3
+white,25,C25  Vienna Game Max Lange,C25,,18,9,9,0,50.0,0,eco,3
+white,26,C50  Italian Game,C50,,619,323,276,20,52.2,0,eco,3
+white,27,C55  Italian Game Two Knights,C55,,219,110,104,5,50.2,0,eco,3
+white,28,B30  Sicilian Defense Old Sicilian,B30,,101,51,47,3,50.5,0,eco,3
+white,29,C53  Giuoco Piano Game Main,C53,,495,264,216,15,53.3,0,eco,3
+white,30,B21  Sicilian Defense Smith Morra,B21,,10,6,4,0,60.0,0,eco,3
+white,31,B12  Caro Kann Defense Advance,B12,,274,140,128,6,51.1,0,eco,3
+white,32,B50  Sicilian Defense,B50,,67,35,31,1,52.2,0,eco,3
+white,33,C02  French Defense Advance Paulsen,C02,,83,42,41,0,50.6,0,eco,3
+white,34,B28  Sicilian Defense OKelly Venice,B28,,13,7,5,1,53.8,0,eco,3
+white,35,C01  French Defense Exchange Variation,C01,,27,13,11,3,48.1,0,eco,3
+black,1,A45  Indian Game,A45,,253,106,134,13,41.9,1386.0,eco,3
+black,2,C21  Center Game,C21,,49,10,36,3,20.4,1193.2,eco,3
+black,3,C44  Ponziani Opening Jaenisch Counterattack,C44,,140,54,81,5,38.6,1109.3,eco,3
+black,4,D00  Queens Pawn Opening Chigorin,D00,,193,89,93,11,46.1,386.0,eco,3
+black,5,C65  Ruy Lopez Opening Berlin,C65,,135,59,71,5,43.7,362.7,eco,3
+black,6,C20  Kings Pawn Opening,C20,,172,80,85,7,46.5,344.0,eco,3
+black,7,C28  Bishops Opening Berlin Vienna,C28,,122,53,66,3,43.4,336.8,eco,3
+black,8,D02  Queens Pawn Opening Zukertort,D02,,122,53,62,7,43.4,336.8,eco,3
+black,9,C47  Four Knights Game Italian,C47,,148,71,73,4,48.0,296.0,eco,3
+black,10,B12  Caro Kann Defense,B12,,10,1,8,1,10.0,292.2,eco,3
+black,11,A00  Van t Kruijs Opening,A00,,133,61,67,5,45.9,266.0,eco,3
+black,12,A01  Nimzowitsch Larsen Attack Modern,A01,,47,18,27,2,38.3,263.9,eco,3
+black,13,A02  Birds Opening,A02,,18,5,12,1,27.8,227.6,eco,3
+black,14,C23  Bishops Opening,C23,,93,44,44,5,47.3,186.0,eco,3
+black,15,D06  Queens Gambit Declined Marshall,D06,,17,5,12,0,29.4,180.8,eco,3
+black,16,A46  Indian Game Knights Variation,A46,,84,37,47,0,44.0,168.0,eco,3
+black,17,A50  Indian Game Black Knights,A50,,12,3,9,0,25.0,159.8,eco,3
+black,18,C53  Giuoco Piano Game Main,C53,,63,27,34,2,42.9,126.0,eco,3
+black,19,C34  Kings Gambit Accepted Kings,C34,,13,4,8,1,30.8,100.4,eco,3
+black,20,A40  Queens Pawn Opening Mikenas,A40,,48,21,27,0,43.8,96.0,eco,3
+black,21,C78  Ruy Lopez Opening Morphy,C78,,24,9,14,1,37.5,94.9,eco,3
+black,22,E20  Nimzo Indian Defense,E20,,44,21,21,2,47.7,88.0,eco,3
+black,23,C42  Petrovs Defense,C42,,40,17,21,2,42.5,80.0,eco,3
+black,24,A07  Kings Indian Attack...3.Bg2 e5,A07,,23,11,12,0,47.8,46.0,eco,3
+black,25,D35  Queens Gambit Declined Modern,D35,,23,10,12,1,43.5,46.0,eco,3
+black,26,E21  Nimzo Indian Defense Three,E21,,22,10,9,3,45.5,44.0,eco,3
+black,27,B10  Caro Kann Defense,B10,,18,7,11,0,38.9,36.0,eco,3
+black,28,A20  English Opening Kings English,A20,,17,7,10,0,41.2,34.0,eco,3
+black,29,D05  Colle System,D05,,16,7,9,0,43.8,32.0,eco,3
+black,30,E30  Nimzo Indian Defense Leningrad,E30,,11,4,7,0,36.4,10.7,eco,3
+black,31,B00  Nimzowitsch Defense Kennedy Linksspringer,B00,,21,11,10,0,52.4,0,eco,3
+black,32,C30  Kings Gambit Declined Queens,C30,,89,46,40,3,51.7,0,eco,3
+black,33,A04  Reti Opening Black Mustang,A04,,31,15,16,0,48.4,0,eco,3
+black,34,C25  Vienna Game Max Lange,C25,,114,60,49,5,52.6,0,eco,3
+black,35,C46  Three Knights Opening,C46,,25,13,11,1,52.0,0,eco,3
+black,36,C50  Giuoco Piano Game Giuoco,C50,,537,263,259,15,49.0,0,eco,3
+black,37,C68  Ruy Lopez Opening Morphy,C68,,59,33,24,2,55.9,0,eco,3
+black,38,C45  Scotch Game Classical Intermezzo,C45,,302,148,142,12,49.0,0,eco,3
+black,39,C54  Giuoco Piano Game Center,C54,,10,4,5,1,40.0,0,eco,3
+black,40,C22  Center Game Accepted Normal,C22,,37,20,16,1,54.1,0,eco,3
+black,41,C57  Italian Game Traxler Knight,C57,,277,144,125,8,52.0,0,eco,3
+black,42,D30  Queens Gambit Declined,D30,,27,14,13,0,51.9,0,eco,3
+black,43,C70  Ruy Lopez Opening Morphy,C70,,14,9,5,0,64.3,0,eco,3
+black,44,C55  Italian Game Two Knights,C55,,83,43,36,4,51.8,0,eco,3
+black,45,C60  Ruy Lopez Opening,C60,,12,5,7,0,41.7,0,eco,3
+black,46,C48  Four Knights Game Spanish,C48,,95,48,43,4,50.5,0,eco,3
+black,47,D03  Queens Pawn Opening Torre,D03,,14,6,8,0,42.9,0,eco,3
+black,48,D38  Queens Gambit Declined Ragozin,D38,,41,21,17,3,51.2,0,eco,3
+black,49,C77  Ruy Lopez Opening Morphy,C77,,40,21,17,2,52.5,0,eco,3
+black,50,E00  Indian Game East Indian,E00,,26,15,9,2,57.7,0,eco,3
+black,51,D04  Colle System,D04,,15,10,5,0,66.7,0,eco,3
+black,52,A15  English Opening Anglo Indian,A15,,13,5,8,0,38.5,0,eco,3
+black,53,D50  Queens Gambit Declined Modern,D50,,13,7,6,0,53.8,0,eco,3

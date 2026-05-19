@@ -31,11 +31,34 @@ MIN_QUAL_GAMES = 6
 
 # ── analysis ──────────────────────────────────────────────────────────────────
 
+def _filter_files(files, start_date=None, end_date=None, exclude_months=None):
+    """Filter game file list by date range and/or excluded months.
+
+    start_date / end_date: 'YYYY_MM' strings, inclusive.
+    exclude_months: set of 'YYYY_MM' strings for non-contiguous exclusions.
+    """
+    result = []
+    for f in files:
+        m = re.search(r'(\d{4}_\d{2})', f)
+        if not m:
+            result.append(f)
+            continue
+        key = m.group(1)
+        if start_date and key < start_date:
+            continue
+        if end_date and key > end_date:
+            continue
+        if exclude_months and any(ex in f for ex in exclude_months):
+            continue
+        result.append(f)
+    return result
+
+
 def load_games(username, games_dir, time_classes, eco_keywords=None, eco_key=None,
-               eco_code_prefix=None, color='white', exclude_months=None):
-    exclude_months = exclude_months or set()
+               eco_code_prefix=None, color='white', exclude_months=None,
+               start_date=None, end_date=None):
     files = sorted(glob.glob(f'{games_dir}/*.json'))
-    files = [f for f in files if not any(ex in f for ex in exclude_months)]
+    files = _filter_files(files, start_date, end_date, exclude_months)
     games = []
     for f in files:
         with open(f, encoding='utf-8') as fh:
@@ -317,7 +340,7 @@ def generate_pdf(consistent, sf_evals, games, config, output_path):
 
         # Title page
         fig = plt.figure(figsize=(11, 8.5))
-        fig.text(0.5, 0.62, f'Lesson {lesson_number}: {lesson_title}',
+        fig.text(0.5, 0.62, lesson_title,
                  ha='center', fontsize=22, fontweight='bold')
         fig.text(0.5, 0.54, username,
                  ha='center', fontsize=14, color='#555')
@@ -441,7 +464,9 @@ def run_lesson(config, output_dir='.'):
     games  = load_games(username, games_dir, time_classes,
                         eco_keywords=eco_keywords, eco_key=eco_key,
                         eco_code_prefix=eco_code_prefix, color=color,
-                        exclude_months=config.get('exclude_months'))
+                        exclude_months=config.get('exclude_months'),
+                        start_date=config.get('start_date'),
+                        end_date=config.get('end_date'))
     counts = Counter(g['outcome'] for g in games)
     total  = len(games)
     wr     = 100 * counts['win'] / total if total else 0
@@ -536,7 +561,9 @@ def compute_opening_priority(config, min_games=5, depth=4, color='white',
     """
     games = load_games(config['username'], config['games_dir'],
                        config['time_classes'], color=color,
-                       exclude_months=config.get('exclude_months'))
+                       exclude_months=config.get('exclude_months'),
+                       start_date=config.get('start_date'),
+                       end_date=config.get('end_date'))
     opening_stats = defaultdict(Counter)
     opening_eco   = {}                     # representative URL per group
     opening_eco_url_counts = defaultdict(Counter)  # for deriving name in eco mode
@@ -611,11 +638,11 @@ _MIDDLEGAME_END = 50   # half-moves (move 25)
 _PHASES = ['Opening (<=move 10)', 'Middlegame (move 11-25)', 'Endgame (move 26+)']
 
 
-def _load_all_games(username, games_dir, time_classes, exclude_months=None):
+def _load_all_games(username, games_dir, time_classes, exclude_months=None,
+                    start_date=None, end_date=None):
     """Load games for both colors — used by phase analysis."""
-    exclude_months = exclude_months or set()
     files = sorted(glob.glob(f'{games_dir}/*.json'))
-    files = [f for f in files if not any(ex in f for ex in exclude_months)]
+    files = _filter_files(files, start_date, end_date, exclude_months)
     games = []
     for f in files:
         with open(f, encoding='utf-8') as fh:
@@ -797,10 +824,11 @@ def run_phase_analysis(config, output_dir='.'):
     username       = config['username']
     games_dir      = config['games_dir']
     time_classes   = config['time_classes']
-    exclude_months = config.get('exclude_months', set())
-
     print(f'Phase analysis: loading all games for {username} ...')
-    games = _load_all_games(username, games_dir, time_classes, exclude_months)
+    games = _load_all_games(username, games_dir, time_classes,
+                            exclude_months=config.get('exclude_months'),
+                            start_date=config.get('start_date'),
+                            end_date=config.get('end_date'))
     for g in games:
         g['halfmoves'] = _count_halfmoves(g['pgn'])
         g['phase']     = _assign_phase(g['halfmoves'])

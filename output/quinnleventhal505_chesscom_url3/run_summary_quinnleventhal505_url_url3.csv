@@ -1,0 +1,21 @@
+priority_rank,name,color,eco_code,priority_score,win_pct,games_in_priority,games_loaded,raw_junctions,consistent_junctions,skipped_junctions,skip_reasons,too_diverse,pdf_generated
+1,Sicilian Defense Open,black,Sicilian-Defense-Open,594.0,46.8,297,113,3,3,0,,,yes
+2,Sicilian Defense Nyezhmetdinov,black,Sicilian-Defense-Nyezhmetdinov,433.7,33.3,42,42,0,0,0,,yes,no
+3,Reti Opening Reti,black,Reti-Opening-Reti,340.6,9.1,11,11,0,0,0,,,no
+4,Sicilian Defense Hyperaccelerated,white,Sicilian-Defense-Hyperaccelerated,197.0,33.3,24,24,1,1,0,,,yes
+5,Scotch Game Goring,white,Scotch-Game-Goring,175.5,39.5,43,29,1,1,0,,,yes
+6,Benoni Defense Modern,black,Benoni-Defense-Modern,146.3,28.6,14,8,0,0,0,,,no
+7,Sicilian Defense McDonnell,black,Sicilian-Defense-McDonnell,114.0,43.9,57,56,2,1,1,SF contradicts data — d6 (62% win) is -24cp vs SF best,,yes
+8,Sicilian Defense Smith,black,Sicilian-Defense-Smith,102.0,47.1,51,51,1,1,0,,,yes
+9,Sicilian Defense Taimanov,black,Sicilian-Defense-Taimanov,100.4,30.8,13,3,0,0,0,,,no
+10,French Defense Advance,white,French-Defense-Advance,100.0,46.0,50,39,1,1,0,,,yes
+11,Sicilian Defense Old,black,Sicilian-Defense-Old,96.0,47.9,48,48,1,0,1,SF contradicts data — g6 (56% win) is -33cp vs SF best,,no
+12,Scandinavian Defense Modern,white,Scandinavian-Defense-Modern,94.9,37.5,24,22,0,0,0,,yes,no
+13,Sicilian Defense Canal,black,Sicilian-Defense-Canal,62.0,45.2,31,23,0,0,0,,yes,no
+14,Sicilian Defense Chekhover,black,Sicilian-Defense-Chekhover,55.1,33.3,12,6,0,0,0,,,no
+15,Sicilian Defense...3.Nc3 a6,black,Sicilian-Defense...3.Nc3-a6,44.0,40.9,22,22,1,0,1,SF contradicts data — b5 (47% win) is -36cp vs SF best,,no
+16,English Opening Kings,black,English-Opening-Kings,43.1,35.7,14,14,0,0,0,,,no
+17,Sicilian Defense Canal,white,Sicilian-Defense-Canal,0,52.0,75,29,1,1,0,,,yes
+18,Philidor Defense,white,Philidor-Defense,0,70.8,48,51,1,1,0,,,yes
+19,Ruy Lopez Opening,white,Ruy-Lopez-Opening,0,63.0,243,13,0,0,0,,,no
+20,Alapin Sicilian Defense...3.Nf3,white,Alapin-Sicilian-Defense...3.Nf3,0,57.1,28,18,0,0,0,,yes,no

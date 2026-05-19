@@ -1,0 +1,72 @@
+color,rank,name,eco_code,eco_key,games,wins,losses,draws,win_pct,priority,group_by,depth
+white,1,Sicilian Defense Hyperaccelerated,,Sicilian-Defense-Hyperaccelerated,24,8,15,1,33.3,197.0,url,3
+white,2,Scotch Game Goring,,Scotch-Game-Goring,43,17,19,7,39.5,175.5,url,3
+white,3,French Defense Advance,,French-Defense-Advance,50,23,22,5,46.0,100.0,url,3
+white,4,Scandinavian Defense Modern,,Scandinavian-Defense-Modern,24,9,11,4,37.5,94.9,url,3
+white,5,Sicilian Defense Canal,,Sicilian-Defense-Canal,75,39,28,8,52.0,0,url,3
+white,6,Philidor Defense,,Philidor-Defense,48,34,7,7,70.8,0,url,3
+white,7,Ruy Lopez Opening,,Ruy-Lopez-Opening,243,153,70,20,63.0,0,url,3
+white,8,Alapin Sicilian Defense...3.Nf3,,Alapin-Sicilian-Defense...3.Nf3,28,16,10,2,57.1,0,url,3
+white,9,French Defense Exchange,,French-Defense-Exchange,117,60,42,15,51.3,0,url,3
+white,10,Sicilian Defense Old,,Sicilian-Defense-Old,29,14,10,5,48.3,0,url,3
+white,11,Queens Pawn Opening,,Queens-Pawn-Opening,18,11,5,2,61.1,0,url,3
+white,12,Closed Sicilian Defense,,Closed-Sicilian-Defense,19,10,8,1,52.6,0,url,3
+white,13,Sicilian Defense,,Sicilian-Defense,53,27,16,10,50.9,0,url,3
+white,14,Modern Defense with,,Modern-Defense-with,35,17,15,3,48.6,0,url,3
+white,15,Alapin Sicilian Defense,,Alapin-Sicilian-Defense,203,128,52,23,63.1,0,url,3
+white,16,Kings Pawn Opening,,Kings-Pawn-Opening,39,26,10,3,66.7,0,url,3
+white,17,Caro Kann Defense,,Caro-Kann-Defense,115,56,45,14,48.7,0,url,3
+white,18,Nimzowitsch Defense Kennedy,,Nimzowitsch-Defense-Kennedy,39,19,18,2,48.7,0,url,3
+white,19,Petrovs Defense Classical,,Petrovs-Defense-Classical,42,36,3,3,85.7,0,url,3
+white,20,Pirc Defense Classical,,Pirc-Defense-Classical,16,8,8,0,50.0,0,url,3
+white,21,Sicilian Defense Nyezhmetdinov,,Sicilian-Defense-Nyezhmetdinov,40,22,14,4,55.0,0,url,3
+white,22,Scandinavian Defense Mieses,,Scandinavian-Defense-Mieses,83,44,28,11,53.0,0,url,3
+white,23,French Defense Normal,,French-Defense-Normal,20,10,6,4,50.0,0,url,3
+white,24,Pirc Defense,,Pirc-Defense,14,7,7,0,50.0,0,url,3
+white,25,Owens Defense,,Owens-Defense,14,8,3,3,57.1,0,url,3
+white,26,Alapin Sicilian Defense...3.d4,,Alapin-Sicilian-Defense...3.d4,30,18,7,5,60.0,0,url,3
+white,27,Center Game,,Center-Game,19,13,3,3,68.4,0,url,3
+white,28,Danish Gambit,,Danish-Gambit,216,131,63,22,60.6,0,url,3
+white,29,Pirc Defense Maroczy,,Pirc-Defense-Maroczy,10,8,2,0,80.0,0,url,3
+white,30,Danish Gambit Declined,,Danish-Gambit-Declined,41,21,14,6,51.2,0,url,3
+white,31,Alapin Sicilian Defense...5.d4,,Alapin-Sicilian-Defense...5.d4,12,6,4,2,50.0,0,url,3
+white,32,Alapin Sicilian Defense...4.d4,,Alapin-Sicilian-Defense...4.d4,22,11,8,3,50.0,0,url,3
+white,33,Alapin Sicilian Defense...5.cxd4,,Alapin-Sicilian-Defense...5.cxd4,12,5,4,3,41.7,0,url,3
+black,1,Sicilian Defense Open,,Sicilian-Defense-Open,297,139,120,38,46.8,594.0,url,3
+black,2,Sicilian Defense Nyezhmetdinov,,Sicilian-Defense-Nyezhmetdinov,42,14,26,2,33.3,433.7,url,3
+black,3,Reti Opening Reti,,Reti-Opening-Reti,11,1,8,2,9.1,340.6,url,3
+black,4,Benoni Defense Modern,,Benoni-Defense-Modern,14,4,9,1,28.6,146.3,url,3
+black,5,Sicilian Defense McDonnell,,Sicilian-Defense-McDonnell,57,25,28,4,43.9,114.0,url,3
+black,6,Sicilian Defense Smith,,Sicilian-Defense-Smith,51,24,22,5,47.1,102.0,url,3
+black,7,Sicilian Defense Taimanov,,Sicilian-Defense-Taimanov,13,4,8,1,30.8,100.4,url,3
+black,8,Sicilian Defense Old,,Sicilian-Defense-Old,48,23,21,4,47.9,96.0,url,3
+black,9,Sicilian Defense Canal,,Sicilian-Defense-Canal,31,14,10,7,45.2,62.0,url,3
+black,10,Sicilian Defense Chekhover,,Sicilian-Defense-Chekhover,12,4,6,2,33.3,55.1,url,3
+black,11,Sicilian Defense...3.Nc3 a6,,Sicilian-Defense...3.Nc3-a6,22,9,10,3,40.9,44.0,url,3
+black,12,English Opening Kings,,English-Opening-Kings,14,5,7,2,35.7,43.1,url,3
+black,13,Sicilian Defense,,Sicilian-Defense,144,80,54,10,55.6,0,url,3
+black,14,Queens Gambit Declined,,Queens-Gambit-Declined,138,67,53,18,48.6,0,url,3
+black,15,Sicilian Defense Bowdler,,Sicilian-Defense-Bowdler,59,39,15,5,66.1,0,url,3
+black,16,Closed Sicilian Defense,,Closed-Sicilian-Defense,99,55,38,6,55.6,0,url,3
+black,17,Queens Pawn Opening,,Queens-Pawn-Opening,75,37,31,7,49.3,0,url,3
+black,18,Alapin Sicilian Defense,,Alapin-Sicilian-Defense,128,78,38,12,60.9,0,url,3
+black,19,Queens Gambit Accepted,,Queens-Gambit-Accepted,104,58,36,10,55.8,0,url,3
+black,20,French Defense Advance,,French-Defense-Advance,21,16,4,1,76.2,0,url,3
+black,21,French Defense Exchange,,French-Defense-Exchange,10,5,3,2,50.0,0,url,3
+black,22,Sicilian Defense Hyperaccelerated,,Sicilian-Defense-Hyperaccelerated,14,9,5,0,64.3,0,url,3
+black,23,Nimzowitsch Larsen Attack,,Nimzowitsch-Larsen-Attack,22,12,8,2,54.5,0,url,3
+black,24,Van t Kruijs,,Van-t-Kruijs,10,5,4,1,50.0,0,url,3
+black,25,Sicilian Defense Delayed,,Sicilian-Defense-Delayed,58,32,17,9,55.2,0,url,3
+black,26,Indian Game,,Indian-Game,62,42,17,3,67.7,0,url,3
+black,27,Sicilian Defense Staunton,,Sicilian-Defense-Staunton,11,7,3,1,63.6,0,url,3
+black,28,English Opening Symmetrical,,English-Opening-Symmetrical,19,10,5,4,52.6,0,url,3
+black,29,Sicilian Defense Wing,,Sicilian-Defense-Wing,13,5,7,1,38.5,0,url,3
+black,30,French Defense Normal,,French-Defense-Normal,12,7,5,0,58.3,0,url,3
+black,31,Sicilian Defense OKelly,,Sicilian-Defense-OKelly,24,18,6,0,75.0,0,url,3
+black,32,French Defense La,,French-Defense-La,10,7,3,0,70.0,0,url,3
+black,33,Sicilian Defense Mengarini,,Sicilian-Defense-Mengarini,13,5,6,2,38.5,0,url,3
+black,34,English Opening Anglo,,English-Opening-Anglo,12,5,7,0,41.7,0,url,3
+black,35,Indian Game Knights,,Indian-Game-Knights,18,10,4,4,55.6,0,url,3
+black,36,Indian Game East,,Indian-Game-East,17,9,7,1,52.9,0,url,3
+black,37,Sicilian Defense Cowboy,,Sicilian-Defense-Cowboy,10,5,2,3,50.0,0,url,3
+black,38,Trompowsky Attack Classical,,Trompowsky-Attack-Classical,23,12,6,5,52.2,0,url,3

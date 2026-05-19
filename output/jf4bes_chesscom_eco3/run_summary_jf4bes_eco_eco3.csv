@@ -1,0 +1,16 @@
+priority_rank,name,color,eco_code,priority_score,win_pct,games_in_priority,games_loaded,raw_junctions,consistent_junctions,skipped_junctions,skip_reasons,too_diverse,pdf_generated
+1,A45  Indian Game,black,A45,1386.0,41.9,253,253,6,3,3,SF contradicts data — h6 (100% win) is -24cp vs SF best | SF contradicts data — Bb4 (50% win) is -60cp vs SF best | SF contradicts data — Nc6 (100% win) is -42cp vs SF best,,yes
+2,C21  Center Game,black,C21,1193.2,20.4,49,49,0,0,0,,yes,no
+3,C44  Ponziani Opening Jaenisch Counterattack,black,C44,1109.3,38.6,140,140,6,4,2,SF contradicts data — dxc3 (56% win) is -378cp vs SF best | SF contradicts data — Bc5 (43% win) is -41cp vs SF best,,yes
+4,B10  Caro Kann Defense,white,B10,777.6,42.8,187,187,6,3,3,SF contradicts data — h3 (71% win) is -30cp vs SF best | SF contradicts data — h3 (71% win) is -35cp vs SF best | SF contradicts data — Be3 (75% win) is -141cp vs SF best,,yes
+5,B22  Alapin Sicilian Defense,white,B22,552.8,45.0,238,238,9,7,2,SF contradicts data — Nf3 (67% win) is -61cp vs SF best | SF contradicts data — d3 (67% win) is -23cp vs SF best,,yes
+6,D00  Queens Pawn Opening Chigorin,black,D00,386.0,46.1,193,193,3,3,0,,,yes
+7,C65  Ruy Lopez Opening Berlin,black,C65,362.7,43.7,135,135,3,2,1,SF contradicts data — Bd6 (57% win) is -93cp vs SF best,,yes
+8,C20  Kings Pawn Opening,black,C20,344.0,46.5,172,172,2,2,0,,,yes
+9,C28  Bishops Opening Berlin Vienna,black,C28,336.8,43.4,122,122,5,4,1,SF contradicts data — Nc6 (56% win) is -136cp vs SF best,,yes
+10,D02  Queens Pawn Opening Zukertort,black,D02,336.8,43.4,122,122,4,3,1,SF contradicts data — Nc6 (47% win) is -27cp vs SF best,,yes
+11,C47  Four Knights Game Italian,black,C47,296.0,48.0,148,148,3,2,1,SF contradicts data — d6 (50% win) is -44cp vs SF best,,yes
+12,B12  Caro Kann Defense,black,B12,292.2,10.0,10,10,0,0,0,,,no
+13,A00  Van t Kruijs Opening,black,A00,266.0,45.9,133,133,2,1,1,SF contradicts data — e4 (75% win) is -24cp vs SF best,,yes
+14,A01  Nimzowitsch Larsen Attack Modern,black,A01,263.9,38.3,47,47,2,2,0,,,yes
+15,A02  Birds Opening,black,A02,227.6,27.8,18,18,1,0,1,SF contradicts data — f6 (67% win) is -76cp vs SF best,,no

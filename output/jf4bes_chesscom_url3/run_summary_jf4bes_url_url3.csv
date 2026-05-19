@@ -1,0 +1,21 @@
+priority_rank,name,color,eco_code,priority_score,win_pct,games_in_priority,games_loaded,raw_junctions,consistent_junctions,skipped_junctions,skip_reasons,too_diverse,pdf_generated
+1,Indian Game,black,Indian-Game,1118.9,41.2,194,323,9,7,2,SF contradicts data — Nc6 (100% win) is -42cp vs SF best | SF contradicts data — Bb4 (50% win) is -61cp vs SF best,,yes
+2,Alapin Sicilian Defense,white,Alapin-Sicilian-Defense,1046.8,40.9,176,14,0,0,0,,,no
+3,Queens Pawn Opening,black,Queens-Pawn-Opening,733.2,45.5,334,27,1,1,0,,,yes
+4,Caro Kann Defense,black,Caro-Kann-Defense,665.9,25.0,36,2,0,0,0,,,no
+5,Ruy Lopez Opening,black,Ruy-Lopez-Opening,662.0,47.7,331,160,2,2,0,,,yes
+6,Center Game,black,Center-Game,611.0,19.2,26,74,1,1,0,,,yes
+7,Ponziani Opening Jaenisch,black,Ponziani-Opening-Jaenisch,508.6,39.8,88,1,0,0,0,,,no
+8,Bishops Opening Berlin,black,Bishops-Opening-Berlin,465.1,41.7,108,102,4,4,0,,,yes
+9,Kings Pawn Opening,black,Kings-Pawn-Opening,424.0,45.3,212,212,3,2,1,SF contradicts data — Bc5 (43% win) is -57cp vs SF best,,yes
+10,Modern Defense with,white,Modern-Defense-with,345.4,34.2,38,38,2,1,1,SF contradicts data — Nc3 (67% win) is -33cp vs SF best,,yes
+11,Birds Opening,black,Birds-Opening,287.0,23.5,17,23,2,1,1,SF contradicts data — f6 (67% win) is -59cp vs SF best,,yes
+12,Scotch Game Classical,black,Scotch-Game-Classical,286.0,46.9,143,62,4,3,1,SF contradicts data — Qxc6 (60% win) is -50cp vs SF best,,yes
+13,Van t Kruijs,black,Van-t-Kruijs,276.9,37.2,43,43,1,0,1,SF contradicts data — e4 (75% win) is -29cp vs SF best,,no
+14,Queens Gambit Declined,black,Queens-Gambit-Declined,270.0,47.4,135,41,2,2,0,,,yes
+15,Nimzowitsch Larsen Attack,black,Nimzowitsch-Larsen-Attack,263.9,38.3,47,11,0,0,0,,,no
+16,Nimzo Indian Defense,black,Nimzo-Indian-Defense,228.0,47.4,114,22,0,0,0,,yes,no
+17,London System,black,London-System,218.5,35.5,31,31,0,0,0,,yes,no
+18,Kings Gambit Accepted,black,Kings-Gambit-Accepted,188.1,34.6,26,12,0,0,0,,,no
+19,Bishops Opening,black,Bishops-Opening,182.0,46.2,91,199,6,5,1,SF contradicts data — Nc6 (45% win) is -21cp vs SF best,,yes
+20,Giuoco Piano Game...5.d3,black,Giuoco-Piano-Game...5.d3,171.5,36.7,30,11,0,0,0,,,no

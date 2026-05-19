@@ -50,10 +50,18 @@ def fetch_chesscom(config, games_dir=None):
     r.raise_for_status()
     archives = r.json().get('archives', [])
 
+    start_date = config.get('start_date')
+    end_date   = config.get('end_date')
+
     new_count = 0
     for archive_url in archives:
         parts = archive_url.rstrip('/').split('/')
         year, month = parts[-2], parts[-1]
+        month_key = f'{year}_{month}'
+        if start_date and month_key < start_date:
+            continue
+        if end_date and month_key > end_date:
+            continue
         fname = os.path.join(games_dir, f'{year}_{month}.json')
         if os.path.exists(fname):
             continue

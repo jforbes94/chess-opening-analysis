@@ -1,0 +1,105 @@
+color,rank,name,eco_code,eco_key,games,wins,losses,draws,win_pct,priority,group_by,depth
+white,1,Alapin Sicilian Defense,,Alapin-Sicilian-Defense,176,72,96,8,40.9,1046.8,url,3
+white,2,Modern Defense with,,Modern-Defense-with,38,13,22,3,34.2,345.4,url,3
+white,3,Petrovs Defense,,Petrovs-Defense,55,25,30,0,45.5,110.0,url,3
+white,4,Sicilian Defense,,Sicilian-Defense,45,21,24,0,46.7,90.0,url,3
+white,5,Scandinavian Defense Modern,,Scandinavian-Defense-Modern,41,18,23,0,43.9,82.0,url,3
+white,6,Sicilian Defense French,,Sicilian-Defense-French,33,14,19,0,42.4,66.0,url,3
+white,7,Bishops Opening Berlin,,Bishops-Opening-Berlin,31,13,18,0,41.9,62.0,url,3
+white,8,Pirc Defense Classical,,Pirc-Defense-Classical,27,11,13,3,40.7,54.0,url,3
+white,9,Sicilian Defense Hyperaccelerated,,Sicilian-Defense-Hyperaccelerated,26,11,13,2,42.3,52.0,url,3
+white,10,French Defense Normal,,French-Defense-Normal,17,7,8,2,41.2,34.0,url,3
+white,11,Owens Defense...3.Nc3 e6,,Owens-Defense...3.Nc3-e6,16,7,9,0,43.8,32.0,url,3
+white,12,Three Knights Opening,,Three-Knights-Opening,11,4,7,0,36.4,10.7,url,3
+white,13,Van t Kruijs,,Van-t-Kruijs,12,6,5,1,50.0,0,url,3
+white,14,Kings Pawn Opening,,Kings-Pawn-Opening,189,99,85,5,52.4,0,url,3
+white,15,Philidor Defense,,Philidor-Defense,168,91,67,10,54.2,0,url,3
+white,16,Bishops Opening Boi,,Bishops-Opening-Boi,32,19,12,1,59.4,0,url,3
+white,17,Caro Kann Defense,,Caro-Kann-Defense,561,274,268,19,48.8,0,url,3
+white,18,Reti Opening Queenside,,Reti-Opening-Queenside,50,29,19,2,58.0,0,url,3
+white,19,Scandinavian Defense Mieses,,Scandinavian-Defense-Mieses,255,125,118,12,49.0,0,url,3
+white,20,French Defense Knight,,French-Defense-Knight,73,36,35,2,49.3,0,url,3
+white,21,Four Knights Game,,Four-Knights-Game,52,28,24,0,53.8,0,url,3
+white,22,Pirc Defense,,Pirc-Defense,12,6,6,0,50.0,0,url,3
+white,23,Italian Game Knight,,Italian-Game-Knight,61,37,24,0,60.7,0,url,3
+white,24,Sicilian Defense Bowdler,,Sicilian-Defense-Bowdler,26,14,12,0,53.8,0,url,3
+white,25,Alekhines Defense,,Alekhines-Defense,11,7,3,1,63.6,0,url,3
+white,26,Pirc Defense Modern,,Pirc-Defense-Modern,117,64,50,3,54.7,0,url,3
+white,27,Giuoco Piano Game,,Giuoco-Piano-Game,664,332,309,23,50.0,0,url,3
+white,28,Scandinavian Defense Closed,,Scandinavian-Defense-Closed,14,8,6,0,57.1,0,url,3
+white,29,Italian Game,,Italian-Game,436,246,179,11,56.4,0,url,3
+white,30,Scandinavian Defense,,Scandinavian-Defense,42,25,16,1,59.5,0,url,3
+white,31,Petrovs Defense Three,,Petrovs-Defense-Three,48,27,19,2,56.2,0,url,3
+white,32,Reti Opening Kingside,,Reti-Opening-Kingside,48,25,21,2,52.1,0,url,3
+white,33,Italian Game Hungarian,,Italian-Game-Hungarian,16,9,6,1,56.2,0,url,3
+white,34,Alekhines Defense Scandinavian,,Alekhines-Defense-Scandinavian,44,24,19,1,54.5,0,url,3
+white,35,Italian Game Two,,Italian-Game-Two,218,109,104,5,50.0,0,url,3
+white,36,Sicilian Defense Old,,Sicilian-Defense-Old,102,52,47,3,51.0,0,url,3
+white,37,Italian Game Traxler,,Italian-Game-Traxler,14,11,3,0,78.6,0,url,3
+white,38,Owens Defense,,Owens-Defense,28,14,14,0,50.0,0,url,3
+white,39,Scotch Game Scotch,,Scotch-Game-Scotch,18,9,8,1,50.0,0,url,3
+white,40,Sicilian Defense Smith,,Sicilian-Defense-Smith,10,6,4,0,60.0,0,url,3
+white,41,Nimzowitsch Defense,,Nimzowitsch-Defense,24,13,10,1,54.2,0,url,3
+white,42,Nimzowitsch Defense Declined,,Nimzowitsch-Defense-Declined,38,19,19,0,50.0,0,url,3
+white,43,French Defense Advance,,French-Defense-Advance,83,42,41,0,50.6,0,url,3
+white,44,Sicilian Defense OKelly,,Sicilian-Defense-OKelly,13,7,5,1,53.8,0,url,3
+white,45,Sicilian Defense Delayed,,Sicilian-Defense-Delayed,14,8,6,0,57.1,0,url,3
+white,46,Alapin Sicilian Defense...3.Nf3,,Alapin-Sicilian-Defense...3.Nf3,27,17,9,1,63.0,0,url,3
+white,47,Alapin Sicilian Defense...3.d4,,Alapin-Sicilian-Defense...3.d4,15,8,5,2,53.3,0,url,3
+white,48,Ruy Lopez Opening,,Ruy-Lopez-Opening,23,15,8,0,65.2,0,url,3
+white,49,French Defense Exchange,,French-Defense-Exchange,27,13,11,3,48.1,0,url,3
+black,1,Indian Game,,Indian-Game,194,80,103,11,41.2,1118.9,url,3
+black,2,Queens Pawn Opening,,Queens-Pawn-Opening,334,152,166,16,45.5,733.2,url,3
+black,3,Caro Kann Defense,,Caro-Kann-Defense,36,9,26,1,25.0,665.9,url,3
+black,4,Ruy Lopez Opening,,Ruy-Lopez-Opening,331,158,160,13,47.7,662.0,url,3
+black,5,Center Game,,Center-Game,26,5,20,1,19.2,611.0,url,3
+black,6,Ponziani Opening Jaenisch,,Ponziani-Opening-Jaenisch,88,35,49,4,39.8,508.6,url,3
+black,7,Bishops Opening Berlin,,Bishops-Opening-Berlin,108,45,60,3,41.7,465.1,url,3
+black,8,Kings Pawn Opening,,Kings-Pawn-Opening,212,96,108,8,45.3,424.0,url,3
+black,9,Birds Opening,,Birds-Opening,17,4,12,1,23.5,287.0,url,3
+black,10,Scotch Game Classical,,Scotch-Game-Classical,143,67,70,6,46.9,286.0,url,3
+black,11,Van t Kruijs,,Van-t-Kruijs,43,16,27,0,37.2,276.9,url,3
+black,12,Queens Gambit Declined,,Queens-Gambit-Declined,135,64,67,4,47.4,270.0,url,3
+black,13,Nimzowitsch Larsen Attack,,Nimzowitsch-Larsen-Attack,47,18,27,2,38.3,263.9,url,3
+black,14,Nimzo Indian Defense,,Nimzo-Indian-Defense,114,54,54,6,47.4,228.0,url,3
+black,15,London System,,London-System,31,11,18,2,35.5,218.5,url,3
+black,16,Kings Gambit Accepted,,Kings-Gambit-Accepted,26,9,15,2,34.6,188.1,url,3
+black,17,Bishops Opening,,Bishops-Opening,91,42,44,5,46.2,182.0,url,3
+black,18,Giuoco Piano Game...5.d3,,Giuoco-Piano-Game...5.d3,30,11,18,1,36.7,171.5,url,3
+black,19,Danish Gambit,,Danish-Gambit,12,3,7,2,25.0,159.8,url,3
+black,20,Indian Game Black,,Indian-Game-Black,12,3,9,0,25.0,159.8,url,3
+black,21,Indian Game Knights,,Indian-Game-Knights,49,20,29,0,40.8,156.6,url,3
+black,22,Richter Veresov Attack,,Richter-Veresov-Attack,11,3,6,2,27.3,113.7,url,3
+black,23,Center Game Accepted,,Center-Game-Accepted,48,22,25,1,45.8,96.0,url,3
+black,24,Ponziani Opening,,Ponziani-Opening,17,6,11,0,35.3,77.6,url,3
+black,25,Petrovs Defense,,Petrovs-Defense,38,16,20,2,42.1,76.0,url,3
+black,26,Kings Fianchetto Opening,,Kings-Fianchetto-Opening,33,15,16,2,45.5,66.0,url,3
+black,27,Kings Gambit,,Kings-Gambit,29,13,14,2,44.8,58.0,url,3
+black,28,Colle System,,Colle-System,23,11,12,0,47.8,46.0,url,3
+black,29,English Opening Anglo,,English-Opening-Anglo,23,10,13,0,43.5,46.0,url,3
+black,30,Indian Game London,,Indian-Game-London,21,9,12,0,42.9,42.0,url,3
+black,31,Reti Opening Black,,Reti-Opening-Black,20,9,11,0,45.0,40.0,url,3
+black,32,English Opening Kings,,English-Opening-Kings,17,7,10,0,41.2,34.0,url,3
+black,33,Indian Game Yusupov,,Indian-Game-Yusupov,11,4,7,0,36.4,10.7,url,3
+black,34,Reti Opening,,Reti-Opening,10,7,3,0,70.0,0,url,3
+black,35,Four Knights Game,,Four-Knights-Game,244,120,116,8,49.2,0,url,3
+black,36,Vienna Game Falkbeer,,Vienna-Game-Falkbeer,27,13,14,0,48.1,0,url,3
+black,37,Kings Gambit Declined,,Kings-Gambit-Declined,60,33,26,1,55.0,0,url,3
+black,38,Van Geet Opening,,Van-Geet-Opening,10,5,5,0,50.0,0,url,3
+black,39,Three Knights Opening,,Three-Knights-Opening,25,13,11,1,52.0,0,url,3
+black,40,Italian Game,,Italian-Game,24,13,11,0,54.2,0,url,3
+black,41,Scotch Game,,Scotch-Game,60,31,29,0,51.7,0,url,3
+black,42,Giuoco Piano Game,,Giuoco-Piano-Game,531,258,256,17,48.6,0,url,3
+black,43,Vienna Game Max,,Vienna-Game-Max,113,60,48,5,53.1,0,url,3
+black,44,Kings Indian Attack,,Kings-Indian-Attack,12,6,6,0,50.0,0,url,3
+black,45,Nimzowitsch Defense Kennedy,,Nimzowitsch-Defense-Kennedy,13,8,5,0,61.5,0,url,3
+black,46,Scotch Game Scotch,,Scotch-Game-Scotch,62,31,29,2,50.0,0,url,3
+black,47,Kings Indian Attack...3.Bg2,,Kings-Indian-Attack...3.Bg2,10,4,6,0,40.0,0,url,3
+black,48,Scotch Game Schmidt,,Scotch-Game-Schmidt,34,17,13,4,50.0,0,url,3
+black,49,Italian Game Traxler,,Italian-Game-Traxler,272,144,120,8,52.9,0,url,3
+black,50,Italian Game Two,,Italian-Game-Two,66,34,28,4,51.5,0,url,3
+black,51,Trompowsky Attack,,Trompowsky-Attack,26,13,11,2,50.0,0,url,3
+black,52,Indian Game East,,Indian-Game-East,28,15,11,2,53.6,0,url,3
+black,53,Queens Indian Defense,,Queens-Indian-Defense,12,6,5,1,50.0,0,url,3
+black,54,Giuoco Piano Game...6.c3,,Giuoco-Piano-Game...6.c3,11,5,6,0,45.5,0,url,3
+black,55,Kings Indian Defense,,Kings-Indian-Defense,10,4,5,1,40.0,0,url,3

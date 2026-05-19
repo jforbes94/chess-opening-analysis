@@ -1,0 +1,26 @@
+priority_rank,name,color,eco_code,priority_score,win_pct,games_in_priority,games_loaded,raw_junctions,consistent_junctions,skipped_junctions,skip_reasons,too_diverse,pdf_generated
+1,E94  Kings Indian Defense Orthodox,white,E94,270.1,16.7,12,12,0,0,0,,,no
+2,D85  Grunfeld Defense Exchange Modern,black,D85,216.4,39.1,46,46,1,0,1,SF contradicts data — g6 (100% win) is -44cp vs SF best,,no
+3,D02  Queens Pawn Opening Pseudo,black,D02,100.0,46.0,50,50,3,3,0,,,yes
+4,C13  French Defense Main Line,white,C13,76.0,47.4,38,38,1,1,0,,,yes
+5,D31  Queens Gambit Declined Semi,white,D31,68.4,30.0,10,10,0,0,0,,,no
+6,C10  French Defense Rubinstein Fort,white,C10,64.0,43.8,32,32,2,2,0,,,yes
+7,A34  English Opening Symmetrical Three,black,A34,57.8,38.1,21,21,0,0,0,,yes,no
+8,D80  Grunfeld Defense,black,D80,55.1,33.3,12,12,0,0,0,,,no
+9,A15  English Opening Anglo Indian,white,A15,50.0,40.0,25,25,0,0,0,,yes,no
+10,C25  Vienna Game Max Lange,black,C25,48.8,39.1,23,23,0,0,0,,yes,no
+11,C68  Ruy Lopez Opening Morphy,black,C68,46.0,47.8,23,23,0,0,0,,yes,no
+12,C69  Ruy Lopez Opening Morphy,black,C69,46.0,43.5,23,23,0,0,0,,yes,no
+13,C28  Bishops Opening Berlin Vienna,black,C28,44.0,45.5,22,22,1,1,0,,,yes
+14,C48  Four Knights Game Spanish,black,C48,44.0,45.5,22,22,0,0,0,,yes,no
+15,A30  English Opening Symmetrical Fianchetto,black,A30,44.0,45.5,22,22,0,0,0,,yes,no
+16,A58  Benko Gambit Fully Accepted...8.Nf3,white,A58,36.0,44.4,18,18,1,1,0,,,yes
+17,E60  Kings Indian Defense Fianchetto,white,E60,34.0,41.2,17,17,1,1,0,,,yes
+18,E15  Queens Indian Defense Fianchetto,white,E15,34.0,47.1,17,17,0,0,0,,yes,no
+19,D91  Grunfeld Defense Petrosian System...6.cxd5,black,D91,34.0,41.2,17,17,0,0,0,,yes,no
+20,C74  Ruy Lopez Opening Morphy,black,C74,34.0,41.2,17,17,0,0,0,,yes,no
+21,A10  English Opening Great Snake,black,A10,32.1,37.5,16,16,0,0,0,,yes,no
+22,C77  Ruy Lopez Opening Morphy,black,C77,30.0,46.7,15,15,0,0,0,,yes,no
+23,A13  English Opening Agincourt Defense...5.O,black,A13,30.0,40.0,15,15,0,0,0,,yes,no
+24,C29  Vienna Game Main Line,black,C29,30.0,40.0,15,15,0,0,0,,yes,no
+25,E18  Queens Indian Defense Fianchetto,white,E18,10.7,36.4,11,11,0,0,0,,,no

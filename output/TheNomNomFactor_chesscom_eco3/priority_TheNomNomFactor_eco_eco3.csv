@@ -1,0 +1,150 @@
+color,rank,name,eco_code,eco_key,games,wins,losses,draws,win_pct,priority,group_by,depth
+white,1,E94  Kings Indian Defense Orthodox,E94,,12,2,8,2,16.7,270.1,eco,3
+white,2,C13  French Defense Main Line,C13,,38,18,14,6,47.4,76.0,eco,3
+white,3,D31  Queens Gambit Declined Semi,D31,,10,3,6,1,30.0,68.4,eco,3
+white,4,C10  French Defense Rubinstein Fort,C10,,32,14,15,3,43.8,64.0,eco,3
+white,5,A15  English Opening Anglo Indian,A15,,25,10,12,3,40.0,50.0,eco,3
+white,6,A58  Benko Gambit Fully Accepted...8.Nf3,A58,,18,8,6,4,44.4,36.0,eco,3
+white,7,E60  Kings Indian Defense Fianchetto,E60,,17,7,8,2,41.2,34.0,eco,3
+white,8,E15  Queens Indian Defense Fianchetto,E15,,17,8,7,2,47.1,34.0,eco,3
+white,9,E18  Queens Indian Defense Fianchetto,E18,,11,4,6,1,36.4,10.7,eco,3
+white,10,A60  Benoni Defense Modern Variation...9.h3,A60,,11,4,5,2,36.4,10.7,eco,3
+white,11,A45  Trompowsky Attack Classical Big,A45,,206,130,65,11,63.1,0,eco,3
+white,12,B80  Sicilian Defense Open Scheveningen,B80,,17,14,3,0,82.4,0,eco,3
+white,13,B06  Modern Defense Standard Line,B06,,102,68,29,5,66.7,0,eco,3
+white,14,B35  Sicilian Defense Open Accelerated,B35,,22,15,6,1,68.2,0,eco,3
+white,15,B77  Sicilian Defense Open Dragon,B77,,24,16,7,1,66.7,0,eco,3
+white,16,A41  Queens Pawn Opening,A41,,17,11,5,1,64.7,0,eco,3
+white,17,D00  Queens Pawn Opening Accelerated,D00,,71,46,22,3,64.8,0,eco,3
+white,18,B33  Sicilian Defense Open,B33,,25,20,5,0,80.0,0,eco,3
+white,19,B01  Scandinavian Defense Mieses Kotrc,B01,,95,67,24,4,70.5,0,eco,3
+white,20,A03  Birds Opening Dutch Variation,A03,,10,7,2,1,70.0,0,eco,3
+white,21,A02  Birds Opening,A02,,14,10,3,1,71.4,0,eco,3
+white,22,A00  Kings Fianchetto Opening,A00,,131,79,43,9,60.3,0,eco,3
+white,23,B07  Pirc Defense,B07,,48,37,9,2,77.1,0,eco,3
+white,24,A04  Reti Opening Black Mustang,A04,,75,46,24,5,61.3,0,eco,3
+white,25,C46  Three Knights Opening...5.d4 Bd6,C46,,35,23,9,3,65.7,0,eco,3
+white,26,C11  French Defense Burn Main,C11,,23,19,3,1,82.6,0,eco,3
+white,27,C50  Giuoco Piano Game,C50,,24,16,7,1,66.7,0,eco,3
+white,28,C18  French Defense Winawer Advance,C18,,26,16,9,1,61.5,0,eco,3
+white,29,B00  Kings Pawn Opening,B00,,84,54,25,5,64.3,0,eco,3
+white,30,B09  Pirc Defense Main Line,B09,,40,30,8,2,75.0,0,eco,3
+white,31,A08  Kings Indian Attack French,A08,,10,8,1,1,80.0,0,eco,3
+white,32,A07  Kings Indian Attack,A07,,58,41,15,2,70.7,0,eco,3
+white,33,C48  Four Knights Game Spanish,C48,,54,32,21,1,59.3,0,eco,3
+white,34,A05  Reti Opening Kings Indian,A05,,41,21,17,3,51.2,0,eco,3
+white,35,B45  Sicilian Defense Four Knights,B45,,11,8,0,3,72.7,0,eco,3
+white,36,C16  French Defense Winawer Advance,C16,,12,6,5,1,50.0,0,eco,3
+white,37,C41  Philidor Defense,C41,,42,27,14,1,64.3,0,eco,3
+white,38,A80  Dutch Defense Raphael Variation,A80,,11,9,1,1,81.8,0,eco,3
+white,39,B40  Sicilian Defense Pin Variation,B40,,25,17,6,2,68.0,0,eco,3
+white,40,B90  Sicilian Defense Open Najdorf,B90,,52,38,8,6,73.1,0,eco,3
+white,41,C12  French Defense Classical MacCutcheon,C12,,14,9,5,0,64.3,0,eco,3
+white,42,B75  Sicilian Defense Open Dragon,B75,,10,5,3,2,50.0,0,eco,3
+white,43,B04  Alekhines Defense Modern Schmid,B04,,29,18,11,0,62.1,0,eco,3
+white,44,C49  Four Knights Game Double,C49,,24,16,5,3,66.7,0,eco,3
+white,45,C45  Scotch Game,C45,,11,8,3,0,72.7,0,eco,3
+white,46,C00  French Defense Normal Variation,C00,,39,19,19,1,48.7,0,eco,3
+white,47,D20  Queens Gambit Accepted Central,D20,,11,9,2,0,81.8,0,eco,3
+white,48,C40  Kings Pawn Opening Kings,C40,,18,14,4,0,77.8,0,eco,3
+white,49,A10  English Opening,A10,,13,7,4,2,53.8,0,eco,3
+white,50,B15  Caro Kann Defense,B15,,25,16,6,3,64.0,0,eco,3
+white,51,B41  Sicilian Defense Kan Maroczy,B41,,37,28,8,1,75.7,0,eco,3
+white,52,B48  Sicilian Defense Taimanov Bastrikov,B48,,23,16,5,2,69.6,0,eco,3
+white,53,A43  Old Benoni Defense,A43,,49,35,12,2,71.4,0,eco,3
+white,54,A30  English Opening Symmetrical Variation...5.O,A30,,25,12,12,1,48.0,0,eco,3
+white,55,B12  Caro Kann Defense Advance,B12,,25,15,6,4,60.0,0,eco,3
+white,56,E04  Catalan Opening Closed...6.O O,E04,,17,11,6,0,64.7,0,eco,3
+white,57,B02  Alekhines Defense Scandinavian Variation,B02,,24,12,12,0,50.0,0,eco,3
+white,58,A13  English Opening Neo Catalan,A13,,31,19,8,4,61.3,0,eco,3
+white,59,B03  Alekhines Defense Normal Variation,B03,,10,6,4,0,60.0,0,eco,3
+white,60,A40  Queens Pawn Opening,A40,,65,39,22,4,60.0,0,eco,3
+white,61,C55  Italian Game Two Knights,C55,,10,6,4,0,60.0,0,eco,3
+white,62,B10  Caro Kann Defense Two,B10,,13,8,4,1,61.5,0,eco,3
+white,63,B27  Sicilian Defense Katalimov Variation,B27,,13,9,4,0,69.2,0,eco,3
+white,64,B19  Caro Kann Defense Classical,B19,,10,5,4,1,50.0,0,eco,3
+white,65,A46  Indian Game Spielmann Indian,A46,,15,9,5,1,60.0,0,eco,3
+white,66,B32  Sicilian Defense Open Lowenthal,B32,,18,11,6,1,61.1,0,eco,3
+white,67,D02  Queens Pawn Opening Pseudo,D02,,31,18,13,0,58.1,0,eco,3
+white,68,D78  Neo Grunfeld Defense Classical,D78,,15,10,3,2,66.7,0,eco,3
+white,69,A49  Indian Game East Indian,A49,,14,6,7,1,42.9,0,eco,3
+white,70,E01  Catalan Opening Closed...5.Nd2 O,E01,,20,12,6,2,60.0,0,eco,3
+white,71,D43  Semi Slav Defense,D43,,17,10,6,1,58.8,0,eco,3
+white,72,E07  Catalan Opening Closed Botvinnik,E07,,16,11,2,3,68.8,0,eco,3
+white,73,D34  Tarrasch Defense Two Knights,D34,,12,6,4,2,50.0,0,eco,3
+white,74,E05  Catalan Opening Open Defense,E05,,25,13,10,2,52.0,0,eco,3
+white,75,B76  Sicilian Defense Open Dragon,B76,,22,17,2,3,77.3,0,eco,3
+white,76,D11  Slav Defense Modern Line...6.O,D11,,22,12,8,2,54.5,0,eco,3
+white,77,B28  Sicilian Defense OKelly Normal,B28,,11,8,3,0,72.7,0,eco,3
+white,78,A31  English Opening Symmetrical Anti,A31,,12,5,5,2,41.7,0,eco,3
+white,79,D30  Queens Gambit Declined Catalan,D30,,15,9,4,2,60.0,0,eco,3
+white,80,D19  Slav Defense Modern Alapin,D19,,11,7,4,0,63.6,0,eco,3
+white,81,D16  Slav Defense Modern Alapin,D16,,10,7,3,0,70.0,0,eco,3
+white,82,E17  Queens Indian Defense Fianchetto,E17,,11,9,1,1,81.8,0,eco,3
+white,83,E97  Kings Indian Defense Bayonet,E97,,32,16,14,2,50.0,0,eco,3
+white,84,D85  Grunfeld Defense Exchange Modern,D85,,16,8,6,2,50.0,0,eco,3
+white,85,E91  Kings Indian Defense Orthodox,E91,,11,7,3,1,63.6,0,eco,3
+black,1,D85  Grunfeld Defense Exchange Modern,D85,,46,18,21,7,39.1,216.4,eco,3
+black,2,D02  Queens Pawn Opening Pseudo,D02,,50,23,22,5,46.0,100.0,eco,3
+black,3,A34  English Opening Symmetrical Three,A34,,21,8,11,2,38.1,57.8,eco,3
+black,4,D80  Grunfeld Defense,D80,,12,4,7,1,33.3,55.1,eco,3
+black,5,C25  Vienna Game Max Lange,C25,,23,9,13,1,39.1,48.8,eco,3
+black,6,C68  Ruy Lopez Opening Morphy,C68,,23,11,9,3,47.8,46.0,eco,3
+black,7,C69  Ruy Lopez Opening Morphy,C69,,23,10,11,2,43.5,46.0,eco,3
+black,8,C28  Bishops Opening Berlin Vienna,C28,,22,10,10,2,45.5,44.0,eco,3
+black,9,C48  Four Knights Game Spanish,C48,,22,10,12,0,45.5,44.0,eco,3
+black,10,A30  English Opening Symmetrical Fianchetto,A30,,22,10,11,1,45.5,44.0,eco,3
+black,11,D91  Grunfeld Defense Petrosian System...6.cxd5,D91,,17,7,6,4,41.2,34.0,eco,3
+black,12,C74  Ruy Lopez Opening Morphy,C74,,17,7,6,4,41.2,34.0,eco,3
+black,13,A10  English Opening Great Snake,A10,,16,6,9,1,37.5,32.1,eco,3
+black,14,C77  Ruy Lopez Opening Morphy,C77,,15,7,7,1,46.7,30.0,eco,3
+black,15,A13  English Opening Agincourt Defense...5.O,A13,,15,6,8,1,40.0,30.0,eco,3
+black,16,C29  Vienna Game Main Line,C29,,15,6,9,0,40.0,30.0,eco,3
+black,17,D78  Neo Grunfeld Defense Classical,D78,,11,4,6,1,36.4,10.7,eco,3
+black,18,A01  Nimzowitsch Larsen Attack Indian,A01,,96,47,38,11,49.0,0,eco,3
+black,19,A45  Indian Game...3.f4 Bg7,A45,,100,56,34,10,56.0,0,eco,3
+black,20,D00  Richter Veresov Attack,D00,,43,30,11,2,69.8,0,eco,3
+black,21,A00  Mieses Opening,A00,,148,90,51,7,60.8,0,eco,3
+black,22,B07  Pirc Defense Main Line,B07,,138,85,47,6,61.6,0,eco,3
+black,23,A46  Indian Game Yusupov Rubinstein,A46,,88,48,33,7,54.5,0,eco,3
+black,24,C45  Scotch Game Classical Variation,C45,,74,38,27,9,51.4,0,eco,3
+black,25,E60  Kings Indian Defense,E60,,11,7,3,1,63.6,0,eco,3
+black,26,A15  English Opening Anglo Indian,A15,,33,17,12,4,51.5,0,eco,3
+black,27,C50  Giuoco Piano Game Giuoco,C50,,93,54,31,8,58.1,0,eco,3
+black,28,B09  Pirc Defense Main Line,B09,,34,21,11,2,61.8,0,eco,3
+black,29,A05  Reti Opening Kings Indian,A05,,50,25,17,8,50.0,0,eco,3
+black,30,C47  Four Knights Game,C47,,60,35,21,4,58.3,0,eco,3
+black,31,B08  Pirc Defense Classical Variation,B08,,76,38,34,4,50.0,0,eco,3
+black,32,C00  French Defense Normal Variation,C00,,13,9,4,0,69.2,0,eco,3
+black,33,C20  Kings Pawn Opening,C20,,27,15,8,4,55.6,0,eco,3
+black,34,A16  English Opening Anglo Indian,A16,,27,13,13,1,48.1,0,eco,3
+black,35,A70  Benoni Defense Modern Classical,A70,,20,12,6,2,60.0,0,eco,3
+black,36,B40  Sicilian Defense Kramnik Variation...6.Nxd4,B40,,14,7,6,1,50.0,0,eco,3
+black,37,C51  Giuoco Piano Game Evans,C51,,22,18,3,1,81.8,0,eco,3
+black,38,C84  Ruy Lopez Opening Morphy,C84,,15,12,3,0,80.0,0,eco,3
+black,39,A33  English Opening Symmetrical Anti,A33,,14,9,4,1,64.3,0,eco,3
+black,40,C53  Giuoco Piano Game Main,C53,,21,13,6,2,61.9,0,eco,3
+black,41,B06  Modern Defense with,B06,,232,134,85,13,57.8,0,eco,3
+black,42,C55  Scotch Game Dubois Reti,C55,,12,6,5,1,50.0,0,eco,3
+black,43,A04  Reti Opening Kingside Fianchetto,A04,,76,45,29,2,59.2,0,eco,3
+black,44,C34  Kings Gambit Accepted Bonsch,C34,,21,17,4,0,81.0,0,eco,3
+black,45,B33  Sicilian Defense Open Pelikan,B33,,27,18,9,0,66.7,0,eco,3
+black,46,C44  Kings Pawn Opening Tayler,C44,,17,11,6,0,64.7,0,eco,3
+black,47,B20  Sicilian Defense Staunton Cochrane,B20,,22,13,6,3,59.1,0,eco,3
+black,48,C21  Danish Gambit Declined Sorensen,C21,,16,9,7,0,56.2,0,eco,3
+black,49,C22  Center Game Accepted Paulsen,C22,,21,15,5,1,71.4,0,eco,3
+black,50,A65  Benoni Defense Modern Penrose,A65,,10,7,2,1,70.0,0,eco,3
+black,51,A40  Modern Defense with,A40,,160,89,60,11,55.6,0,eco,3
+black,52,B00  Kings Pawn Opening,B00,,20,10,10,0,50.0,0,eco,3
+black,53,A02  Birds Opening,A02,,10,8,2,0,80.0,0,eco,3
+black,54,B23  Closed Sicilian Defense Grand,B23,,16,13,2,1,81.2,0,eco,3
+black,55,B22  Alapin Sicilian Defense...8.O O,B22,,15,11,4,0,73.3,0,eco,3
+black,56,E00  Indian Game East Indian,E00,,11,5,4,2,45.5,0,eco,3
+black,57,C54  Giuoco Piano Game Center,C54,,27,18,5,4,66.7,0,eco,3
+black,58,E61  Kings Indian Defense Normal,E61,,10,8,1,1,80.0,0,eco,3
+black,59,A48  Indian Game Knights Variation,A48,,63,39,20,4,61.9,0,eco,3
+black,60,A49  Indian Game East Indian,A49,,26,13,13,0,50.0,0,eco,3
+black,61,D32  Tarrasch Defense Two Knights,D32,,13,10,2,1,76.9,0,eco,3
+black,62,A07  Kings Indian Attack Double,A07,,13,7,5,1,53.8,0,eco,3
+black,63,C71  Ruy Lopez Opening Morphy,C71,,20,13,6,1,65.0,0,eco,3
+black,64,C72  Ruy Lopez Opening Morphy,C72,,41,28,12,1,68.3,0,eco,3
