@@ -38,7 +38,7 @@ All lessons are merged into a single report PDF with bookmarked chapters.
 ## Output structure
 
 ```
-output/
+output/                           — committed to git as examples
   {username}_{source}/
     phase_{username}.pdf          — phase analysis (opening/middlegame/endgame loss breakdown)
     priority_{username}_*.csv     — full priority list with win rates
@@ -49,7 +49,7 @@ output/
       lesson_02_{username}_{eco}.pdf
       ...
 
-games_{username}_{source}/        — downloaded game files (gitignored)
+games_{username}_{source}/        — downloaded game files (gitignored, re-fetch with cell 2)
   YYYY_MM.json                    — Chess.com format (one file per month)
   lichess_YYYY_MM.json            — Lichess format (WIP)
 ```

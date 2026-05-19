@@ -1,0 +1,16 @@
+priority_rank,name,color,eco_code,priority_score,win_pct,games_in_priority,games_loaded,raw_junctions,consistent_junctions,skipped_junctions,skip_reasons,too_diverse,pdf_generated
+1,A09  Reti Opening Reti Gambit,black,A09,340.6,9.1,11,11,0,0,0,,,no
+2,C45  Scotch Game Goring Double,white,C45,270.3,37.8,45,45,1,1,0,,,yes
+3,B21  Sicilian Defense Smith Morra,black,B21,216.0,45.4,108,108,3,2,1,SF contradicts data — d6 (62% win) is -24cp vs SF best,,yes
+4,B90  Sicilian Defense Open Najdorf,black,B90,156.0,43.6,78,78,1,1,0,,,yes
+5,B30  Sicilian Defense Old Sicilian,black,B30,144.0,43.1,72,72,1,0,1,SF contradicts data — g6 (50% win) is -33cp vs SF best,,no
+6,B12  Caro Kann Defense Advance,white,B12,142.0,45.1,71,71,4,4,0,,,yes
+7,B94  Sicilian Defense Open Najdorf,black,B94,113.4,35.0,20,20,0,0,0,,yes,no
+8,B50  Sicilian Defense,white,B50,112.0,46.4,56,56,1,1,0,,,yes
+9,C02  French Defense Advance Paulsen,white,C02,100.0,46.0,50,50,1,1,0,,,yes
+10,D00  Queens Pawn Opening,black,D00,84.0,42.9,42,42,2,2,0,,,yes
+11,C70  Ruy Lopez Opening Morphy,white,C70,77.6,35.3,17,17,1,1,0,,,yes
+12,B51  Sicilian Defense Canal Attack,white,B51,76.0,47.4,38,38,1,1,0,,,yes
+13,B27  Sicilian Defense,white,B27,72.0,41.7,36,36,0,0,0,,yes,no
+14,B31  Sicilian Defense Nyezhmetdinov Rossolimo,black,B31,67.4,36.8,19,19,0,0,0,,yes,no
+15,B53  Sicilian Defense Chekhover Variation...6.Bxc6,black,B53,55.1,33.3,12,12,0,0,0,,,no

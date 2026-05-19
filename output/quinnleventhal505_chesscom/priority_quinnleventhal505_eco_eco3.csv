@@ -1,0 +1,80 @@
+color,rank,name,eco_code,eco_key,games,wins,losses,draws,win_pct,priority,group_by,depth
+white,1,C45  Scotch Game Goring Double,C45,,45,17,21,7,37.8,270.3,eco,3
+white,2,B12  Caro Kann Defense Advance,B12,,71,32,30,9,45.1,142.0,eco,3
+white,3,B50  Sicilian Defense,B50,,56,26,20,10,46.4,112.0,eco,3
+white,4,C02  French Defense Advance Paulsen,C02,,50,23,22,5,46.0,100.0,eco,3
+white,5,C70  Ruy Lopez Opening Morphy,C70,,17,6,9,2,35.3,77.6,eco,3
+white,6,B51  Sicilian Defense Canal Attack,B51,,38,18,17,3,47.4,76.0,eco,3
+white,7,B27  Sicilian Defense,B27,,36,15,18,3,41.7,72.0,eco,3
+white,8,B52  Sicilian Defense Canal Main,B52,,37,21,11,5,56.8,0,eco,3
+white,9,C41  Philidor Defense,C41,,51,35,9,7,68.6,0,eco,3
+white,10,B22  Alapin Sicilian Defense Barmen,B22,,361,212,104,45,58.7,0,eco,3
+white,11,C01  French Defense Exchange Variation,C01,,117,60,42,15,51.3,0,eco,3
+white,12,C66  Ruy Lopez Opening Berlin,C66,,12,5,7,0,41.7,0,eco,3
+white,13,C62  Ruy Lopez Opening Old,C62,,21,11,9,1,52.4,0,eco,3
+white,14,C61  Ruy Lopez Opening Birds,C61,,13,11,1,1,84.6,0,eco,3
+white,15,C88  Ruy Lopez Opening Morphy,C88,,16,11,4,1,68.8,0,eco,3
+white,16,B23  Closed Sicilian Defense Traditional,B23,,19,10,8,1,52.6,0,eco,3
+white,17,B30  Sicilian Defense Old Sicilian,B30,,58,29,21,8,50.0,0,eco,3
+white,18,B06  Modern Defense with,B06,,46,24,19,3,52.2,0,eco,3
+white,19,C50  Italian Game,C50,,11,7,3,1,63.6,0,eco,3
+white,20,B00  Nimzowitsch Defense Kennedy Linksspringer,B00,,85,43,35,7,50.6,0,eco,3
+white,21,C65  Ruy Lopez Opening Berlin,C65,,31,23,6,2,74.2,0,eco,3
+white,22,C64  Ruy Lopez Opening Classical,C64,,12,7,3,2,58.3,0,eco,3
+white,23,C40  Kings Pawn Opening Kings,C40,,26,22,3,1,84.6,0,eco,3
+white,24,B07  Pirc Defense,B07,,35,24,9,2,68.6,0,eco,3
+white,25,A40  Queens Pawn Opening Mikenas,A40,,14,9,5,0,64.3,0,eco,3
+white,26,C67  Ruy Lopez Opening Berlin,C67,,10,6,3,1,60.0,0,eco,3
+white,27,C42  Petrovs Defense Classical Variation,C42,,43,37,3,3,86.0,0,eco,3
+white,28,C60  Ruy Lopez Opening,C60,,31,20,8,3,64.5,0,eco,3
+white,29,B40  Sicilian Defense French Variation,B40,,13,7,6,0,53.8,0,eco,3
+white,30,B08  Pirc Defense Classical Variation,B08,,16,8,8,0,50.0,0,eco,3
+white,31,C00  French Defense Normal Variation,C00,,33,16,13,4,48.5,0,eco,3
+white,32,B01  Scandinavian Defense Mieses Kotrc,B01,,113,56,42,15,49.6,0,eco,3
+white,33,C78  Ruy Lopez Opening Morphy,C78,,25,17,6,2,68.0,0,eco,3
+white,34,B02  Alekhines Defense Scandinavian Variation,B02,,12,5,5,2,41.7,0,eco,3
+white,35,A04  Reti Opening Kingside Fianchetto,A04,,10,7,3,0,70.0,0,eco,3
+white,36,B31  Sicilian Defense Nyezhmetdinov Rossolimo,B31,,10,6,3,1,60.0,0,eco,3
+white,37,B13  Caro Kann Defense Exchange,B13,,36,20,12,4,55.6,0,eco,3
+white,38,B03  Alekhines Defense Normal Variation,B03,,11,8,3,0,72.7,0,eco,3
+white,39,C77  Ruy Lopez Opening Morphy,C77,,14,13,1,0,92.9,0,eco,3
+white,40,C21  Danish Gambit,C21,,276,165,80,31,59.8,0,eco,3
+black,1,A09  Reti Opening Reti Gambit,A09,,11,1,8,2,9.1,340.6,eco,3
+black,2,B21  Sicilian Defense Smith Morra,B21,,108,49,50,9,45.4,216.0,eco,3
+black,3,B90  Sicilian Defense Open Najdorf,B90,,78,34,32,12,43.6,156.0,eco,3
+black,4,B30  Sicilian Defense Old Sicilian,B30,,72,31,34,7,43.1,144.0,eco,3
+black,5,B94  Sicilian Defense Open Najdorf,B94,,20,7,10,3,35.0,113.4,eco,3
+black,6,D00  Queens Pawn Opening,D00,,42,18,21,3,42.9,84.0,eco,3
+black,7,B31  Sicilian Defense Nyezhmetdinov Rossolimo,B31,,19,7,11,1,36.8,67.4,eco,3
+black,8,B53  Sicilian Defense Chekhover Variation...6.Bxc6,B53,,12,4,6,2,33.3,55.1,eco,3
+black,9,B52  Sicilian Defense Canal Main,B52,,23,9,7,7,39.1,48.8,eco,3
+black,10,D35  Queens Gambit Declined Exchange,D35,,22,10,6,6,45.5,44.0,eco,3
+black,11,A20  English Opening Kings English,A20,,14,5,7,2,35.7,43.1,eco,3
+black,12,B60  Sicilian Defense Open Classical,B60,,14,5,8,1,35.7,43.1,eco,3
+black,13,E00  Indian Game East Indian,E00,,21,10,10,1,47.6,42.0,eco,3
+black,14,D37  Queens Gambit Declined Three,D37,,21,9,8,4,42.9,42.0,eco,3
+black,15,B50  Sicilian Defense,B50,,215,110,79,26,51.2,0,eco,3
+black,16,D07  Queens Gambit Declined Chigorin,D07,,31,18,12,1,58.1,0,eco,3
+black,17,B20  Sicilian Defense Bowdler Attack,B20,,144,85,44,15,59.0,0,eco,3
+black,18,B23  Sicilian Defense OKelly Yerevan,B23,,119,73,38,8,61.3,0,eco,3
+black,19,D02  Queens Pawn Opening Zukertort,D02,,56,31,16,9,55.4,0,eco,3
+black,20,B33  Sicilian Defense Open Pelikan,B33,,24,17,5,2,70.8,0,eco,3
+black,21,B22  Alapin Sicilian Defense,B22,,132,79,39,14,59.8,0,eco,3
+black,22,D20  Queens Gambit Accepted Central,D20,,69,41,20,8,59.4,0,eco,3
+black,23,C00  French Defense,C00,,32,23,8,1,71.9,0,eco,3
+black,24,C02  French Defense Advance Nimzowitsch,C02,,21,16,4,1,76.2,0,eco,3
+black,25,C01  French Defense Exchange Variation,C01,,10,5,3,2,50.0,0,eco,3
+black,26,A00  Van t Kruijs Opening,A00,,52,29,20,3,55.8,0,eco,3
+black,27,B27  Sicilian Defense Hyperaccelerated Dragon,B27,,16,9,7,0,56.2,0,eco,3
+black,28,D25  Queens Gambit Accepted Janowski,D25,,25,12,11,2,48.0,0,eco,3
+black,29,B34  Sicilian Defense Open Accelerated,B34,,21,11,6,4,52.4,0,eco,3
+black,30,A01  Nimzowitsch Larsen Attack Modern,A01,,22,12,8,2,54.5,0,eco,3
+black,31,B40  Sicilian Defense French Variation,B40,,13,8,5,0,61.5,0,eco,3
+black,32,A45  Trompowsky Attack Classical Big,A45,,102,63,29,10,61.8,0,eco,3
+black,33,B56  Sicilian Defense Open Classical,B56,,28,18,6,4,64.3,0,eco,3
+black,34,B28  Sicilian Defense OKelly Venice,B28,,10,4,6,0,40.0,0,eco,3
+black,35,A46  Indian Game Yusupov Rubinstein,A46,,41,23,13,5,56.1,0,eco,3
+black,36,B54  Sicilian Defense Open Variation,B54,,26,14,11,1,53.8,0,eco,3
+black,37,D05  Colle System,D05,,12,7,2,3,58.3,0,eco,3
+black,38,D53  Queens Gambit Declined Modern,D53,,12,6,5,1,50.0,0,eco,3
+black,39,D55  Queens Gambit Declined Modern,D55,,13,5,6,2,38.5,0,eco,3

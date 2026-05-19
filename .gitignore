@@ -1,8 +1,7 @@
 # Downloaded game data — re-run game_fetcher / cell 0 to regenerate
 games_*/
 
-# Generated reports and analysis output
-output/
+# Generated reports are committed as examples — output/ is tracked
 
 # Jupyter
 .ipynb_checkpoints/
