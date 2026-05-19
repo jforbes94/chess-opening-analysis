@@ -1,0 +1,26 @@
+priority_rank,name,color,eco_code,priority_score,win_pct,games_in_priority,games_loaded,raw_junctions,consistent_junctions,skipped_junctions,skip_reasons,too_diverse,pdf_generated
+1,B06  Modern Defense with,white,B06,263.7,28.6,21,21,0,0,0,,yes,no
+2,A01  Nimzowitsch Larsen Attack Indian,black,A01,263.7,28.6,21,21,1,1,0,,,yes
+3,C20  Kings Pawn Opening,black,C20,260.0,46.2,130,130,4,3,1,SF contradicts data — Qe7 (43% win) is -26cp vs SF best,,yes
+4,B12  Caro Kann Defense Advance,black,B12,243.2,36.8,38,38,0,0,0,,yes,no
+5,C45  Scotch Game,black,C45,235.1,33.3,27,27,2,1,1,SF contradicts data — d6 (60% win) is -60cp vs SF best,,yes
+6,D02  Queens Pawn Opening Zukertort,black,D02,196.0,37.8,37,37,1,0,1,SF contradicts data — Nc6 (71% win) is -24cp vs SF best,,no
+7,A48  Indian Game East Indian,white,A48,169.9,31.6,19,19,1,1,0,,,yes
+8,A45  Indian Game,black,A45,169.1,40.0,45,45,1,1,0,,,yes
+9,C44  Kings Pawn Opening Kings,white,C44,141.3,36.0,25,25,2,2,0,,,yes
+10,B00  Kings Pawn Opening,white,B00,126.0,44.4,63,63,1,1,0,,,yes
+11,C25  Vienna Game,white,C25,124.7,37.9,29,29,0,0,0,,yes,no
+12,D06  Queens Gambit Declined Marshall,white,D06,124.7,37.9,29,29,0,0,0,,yes,no
+13,C47  Four Knights Game,black,C47,113.7,27.3,11,11,0,0,0,,,no
+14,D20  Queens Gambit Accepted Central,white,D20,98.0,42.9,49,49,0,0,0,,yes,no
+15,A41  Queens Pawn Opening,white,A41,94.9,37.5,24,24,0,0,0,,yes,no
+16,C41  Philidor Defense,black,C41,76.0,47.4,38,38,2,2,0,,,yes
+17,C50  Giuoco Piano Game Four,black,C50,70.0,42.9,35,35,1,0,1,SF contradicts data — d6 (67% win) is -26cp vs SF best,,no
+18,C25  Vienna Game,black,C25,55.1,33.3,12,12,0,0,0,,,no
+19,C50  Italian Game,white,C50,50.0,44.0,25,25,1,1,0,,,yes
+20,B06  Modern Defense with,black,B06,44.0,40.9,22,22,1,1,0,,,yes
+21,B00  Kings Pawn Opening,black,B00,43.1,35.7,14,14,1,1,0,,,yes
+22,A43  Old Benoni Defense,white,A43,36.0,38.9,18,18,1,0,1,SF contradicts data — Bf4 (50% win) is -81cp vs SF best,,no
+23,A46  Indian Game London System,white,A46,32.0,43.8,16,16,1,1,0,,,yes
+24,C20  Kings Pawn Opening Leonardis,white,C20,0,50.6,79,79,2,2,0,,,yes
+25,C40  Kings Pawn Opening Kings,white,C40,0,53.1,49,49,1,1,0,,,yes
