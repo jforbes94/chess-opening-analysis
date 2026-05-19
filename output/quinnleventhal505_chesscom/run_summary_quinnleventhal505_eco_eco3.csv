@@ -14,3 +14,13 @@ priority_rank,name,color,eco_code,priority_score,win_pct,games_in_priority,games
 13,B27  Sicilian Defense,white,B27,72.0,41.7,36,36,0,0,0,,yes,no
 14,B31  Sicilian Defense Nyezhmetdinov Rossolimo,black,B31,67.4,36.8,19,19,0,0,0,,yes,no
 15,B53  Sicilian Defense Chekhover Variation...6.Bxc6,black,B53,55.1,33.3,12,12,0,0,0,,,no
+16,B52  Sicilian Defense Canal Main,black,B52,48.8,39.1,23,23,0,0,0,,yes,no
+17,D35  Queens Gambit Declined Exchange,black,D35,44.0,45.5,22,22,0,0,0,,yes,no
+18,A20  English Opening Kings English,black,A20,43.1,35.7,14,14,0,0,0,,,no
+19,B60  Sicilian Defense Open Classical,black,B60,43.1,35.7,14,14,0,0,0,,,no
+20,E00  Indian Game East Indian,black,E00,42.0,47.6,21,21,0,0,0,,yes,no
+21,D37  Queens Gambit Declined Three,black,D37,42.0,42.9,21,21,0,0,0,,yes,no
+22,B52  Sicilian Defense Canal Main,white,B52,0,56.8,37,37,2,1,1,SF contradicts data — Nc3 (75% win) is -27cp vs SF best,,yes
+23,C41  Philidor Defense,white,C41,0,68.6,51,51,1,1,0,,,yes
+24,B22  Alapin Sicilian Defense Barmen,white,B22,0,58.7,361,361,10,6,4,SF contradicts data — dxc5 (100% win) is -40cp vs SF best | SF contradicts data — e5 (100% win) is -30cp vs SF best | SF contradicts data — h3 (67% win) is -50cp vs SF best | SF contradicts data — Bb5+ (75% win) is -43cp vs SF best,,yes
+25,C01  French Defense Exchange Variation,white,C01,0,51.3,117,117,3,3,0,,,yes
