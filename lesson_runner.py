@@ -262,7 +262,7 @@ def _draw_board_mpl(ax, board, arrows=None, flip=False):
 
     for rank in range(8):
         for file in range(8):
-            color = LIGHT if (rank + file) % 2 == 0 else DARK
+            color = LIGHT if (rank + file) % 2 == 1 else DARK
             ax.add_patch(plt.Rectangle([dx(file), dy(rank)], 1, 1, color=color, zorder=0))
 
     for sq in chess.SQUARES:
